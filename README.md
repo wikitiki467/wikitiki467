@@ -92,15 +92,3 @@
 </details>
 
 <br/>
-
-## Popular Projects
-<a href="https://github.com/wikitiki467/MDX-Food-Safety-Hackathon">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=wikitiki467&repo=MDX-Food-Safety-Hackathon&theme=onedark" />
-</a>  
-
-
-<a href="https://github.com/wikitiki467/Loan_Prediction">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=wikitiki467&repo=Loan_Prediction&theme=onedark" />
-</a> 
