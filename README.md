@@ -12,12 +12,6 @@
    <a href="https://stackoverflow.com/users/11911694/aastha-jha" target="_blank">
     <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
   </a>  
-  <a href="https://www.kaggle.com/aastha124" target="_blank">
-    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
-  </a>  
- <a href="https://www.hackerrank.com/aasthajha123/hackos" target="_blank">
-    <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
-  </a>
 
 - 👋 Hi, I’m wikitiki467
 
