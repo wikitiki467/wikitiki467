@@ -3,9 +3,15 @@
 </p>
 
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;Lead+programmer+at+@Weeb-Hub-Technologies!;" /></a>
+  <a href=""><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;Lead+programmer+at+@Weeb-Hub-Technologies!;" /></a>
 </p>
 
+  <a href="https://www.facebook.com/profile.php?id=100009925421709" target="_blank">
+    <img alt="Facebook" src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white">
+  </a> 
+  <a href="https://twitter.com/wikitiki467" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-289cf0?style=for-the-badge&logo=twitter&logoColor=white">
+  </a> 
    <a href="https://www.linkedin.com/in/filip-krupi%C4%8Dka-423130164/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
