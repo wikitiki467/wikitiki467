@@ -7,7 +7,7 @@
 </p>
 
   <a href="https://www.facebook.com/profile.php?id=100009925421709" target="_blank">
-    <img alt="Facebook" src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white">
+    <img alt="Facebook" src="https://img.shields.io/badge/-Facebook-2377f0?style=for-the-badge&logo=facebook&logoColor=white">
   </a> 
   <a href="https://twitter.com/wikitiki467" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-289cf0?style=for-the-badge&logo=twitter&logoColor=white">
