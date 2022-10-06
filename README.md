@@ -15,14 +15,18 @@
 
 - 👋 Hi, I’m wikitiki467
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>  
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
+    <img alt="CSharp" src="https://img.shields.io/badge/-C%23-blueviolet?style=for-the-badge&logo=CSharp&logoColor=violet">
+  </a>
+  
 <a href="https://www.java.com" target="_blank"> 
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </a>
   
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
-    <img alt="CSharp" src="https://img.shields.io/badge/-C%23-blueviolet?style=for-the-badge&logo=CSharp&logoColor=%22violet%22">
-  </a>
+  <a href="https://www.lua.org/" target="_blank"> 
+  <img alt="Lua" src="https://img.shields.io/badge/-Lua-000080?style=for-the-badge&logo=lua&logoColor=white">
+</a>
 
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
