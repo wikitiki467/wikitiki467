@@ -12,6 +12,18 @@
   <a href="https://twitter.com/wikitiki467" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-289cf0?style=for-the-badge&logo=twitter&logoColor=white">
   </a> 
+  <a href="https://www.instagram.com/wiki.tiki/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-fb286b?style=for-the-badge&logo=instagram&logoColor=white">
+  </a> 
+  <a href="https://www.youtube.com/channel/UCPCNcdJ2cYyiMtGXFDcfoRw" target="_blank">
+    <img alt="Youtube" src="https://img.shields.io/badge/-Youtube-fa0016?style=for-the-badge&logo=youtube&logoColor=white">
+  </a> 
+  <a href="https://www.reddit.com/user/wikitiki467" target="_blank">
+    <img alt="Reddit" src="https://img.shields.io/badge/-Reddit-fd4319?style=for-the-badge&logo=reddit&logoColor=white">
+  </a> 
+  <a href="https://www.tumblr.com/blog/wikitiki467" target="_blank">
+    <img alt="Tumblr" src="https://img.shields.io/badge/-Tumblr-35526e?style=for-the-badge&logo=tumblr&logoColor=white">
+  </a> 
    <a href="https://www.linkedin.com/in/filip-krupi%C4%8Dka-423130164/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
@@ -23,7 +35,7 @@
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>  
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
-    <img alt="CSharp" src="https://img.shields.io/badge/-C%23-blueviolet?style=for-the-badge&logo=CSharp&logoColor=violet">
+    <img alt="CSharp" src="https://img.shields.io/badge/-C%23-blueviolet?style=for-the-badge&logo=CSharp&logoColor=white">
   </a>
   
 <a href="https://www.java.com" target="_blank"> 
