@@ -6,7 +6,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;Lead+programmer+at+@Weeb-Hub-Technologies!;" /></a>
 </p>
 
-   <a href="https://www.linkedin.com/in/wiki-tiki-423130164/" target="_blank">
+   <a href="https://www.linkedin.com/in/filip-krupi%C4%8Dka-423130164/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
    <a href="https://stackoverflow.com/users/19376569/filip-krupi%c4%8dka" target="_blank">
