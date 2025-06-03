@@ -1,57 +1,61 @@
-<h1> こんにちは < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
-</p>
+# 👋 こんにちは < Developers/ > — Welcome!
 
-<p>
-  <a href=""><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;Lead+programmer+at+@Weeb-Hub-Technologies!;" /></a>
-</p>
-  
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>  
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
-    <img alt="CSharp" src="https://img.shields.io/badge/-C%23-blueviolet?style=for-the-badge&logo=CSharp&logoColor=white">
-  </a>
-  
-<a href="https://www.java.com" target="_blank"> 
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-</a>
-  
-  <a href="https://www.lua.org/" target="_blank"> 
-  <img alt="Lua" src="https://img.shields.io/badge/-Lua-000080?style=for-the-badge&logo=lua&logoColor=white">
-</a>
+I'm **wikitiki467**, a passionate lead programmer and tech enthusiast from the Czech Republic. I specialize in creating intelligent systems, game mechanics, and interactive web experiences. I'm currently working on my own AI assistant project — **AIHA** (Artificial Intelligence Home Assistant).
 
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  </a>
-  
-  <a href="https://cs.wikipedia.org/wiki/JavaScript" target="_blank">
-    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white">
-  </a>
+---
 
+## 🧠 About Me
+- 🎓 Programmer fluent in **C#**, **Python**, **Java**, **Lua**, **HTML/CSS**, and **JavaScript**
+- 💡 Passionate about **AI development**, **game design**, and **web technologies**
+- 🗾 Anime lover and Japan culture fan
+- 💬 Fluent in **Czech** and **English**
+- 🔧 Currently building: `AIHA` — A Jarvis-like personal assistant powered by AI & voice interaction
 
-  
-- 👋 Hi, I’m wikitiki467
-  
-<h2>Contact</h2>
-  
-<a>
-  <img alt="Discord" src="https://img.shields.io/badge/-Discord: wiki tiki%239705-blueviolet?style=for-the-badge&logo=Discord&logoColor=white">
-</a>
-  
-<a href="https://stackoverflow.com/users/19376569/filip-krupi%c4%8dka" target="_blank">
-  <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
-</a>  
-  
-<h2>Discord server</h2>
-  
-<a href="https://discord.gg/7nMDPjqhpK" target="_blank">
-  <img alt="Discord" src="https://img.shields.io/badge/-Discord server-blueviolet?style=for-the-badge&logo=Discord&logoColor=white">
-</a>
-  
-<br>
+---
 
-<a href="https://discord.gg/7nMDPjqhpK" target="_blank">
-  <img alt="Discord" src="https://img.shields.io/discord/779438287588032552?style=for-the-badge">
-</a>
+## 🛠️ Skills
 
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+---
 
+## 🚀 Projects
+
+### 👨‍💻 AIHA — Artificial Intelligence Home Assistant
+> A customizable, modular AI assistant with voice features, LLM integration, and Discord connectivity.
+
+- Built with: Python, Flask, Node.js, Discord.js, WebSocket
+- Features: TTS, STT, command system, LangChain integration
+- Status: 🛠️ In development
+
+### 🎮 Roblox Anomaly School Game
+> A Japanese-style mystery/dating sim hybrid game set in a school full of anomalies.
+
+- Built with: Roblox Studio, Lua
+- Status: 👷‍♂️ In progress
+
+<!-- Add more projects as needed -->
+
+---
+
+## 📫 Contact
+
+[![Discord](https://img.shields.io/badge/Discord-wikitiki467%239705-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/wikitiki467)
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/YOUR_ID)
+
+---
+
+## 🌐 Community
+
+[![Discord Server](https://img.shields.io/badge/Discord%20Server-Join%20Us-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/7nMDPjqhpK) [![Discord](https://img.shields.io/discord/779438287588032552?style=for-the-badge)](https://discord.gg/7nMDPjqhpK)
+> 🌸 Chill server for anime lovers, Japan enthusiasts, and fellow developers. Join the fun! ^^
+
+---
+
+_Thanks for stopping by! Feel free to connect, collaborate, or just say hi ^^_
