@@ -40,7 +40,17 @@ I'm **wikitiki467**, a passionate lead programmer and tech enthusiast from the C
 - Built with: Roblox Studio, Lua
 - Status: 👷‍♂️ In progress
 
-<!-- Add more projects as needed -->
+### 💻 [Purkiáda 2022](https://whpurkiada.netlify.app/) – Cipher-Solving Web App
+An interactive web application built for our school's annual Purkiáda competition. Players solve a series of creative ciphers and puzzles, including a custom-built Enigma machine simulator. The app also includes a suite of in-browser tools to assist with decryption and puzzle solving.
+
+> 🔐 Requires knowledge of Czech language.
+
+> 🧪 Demo login: ```admin``` / ```whteam```
+
+### 🦠 [Purkiáda 2023](https://weebhubpurkiada2023.netlify.app/) – “Virus” Themed Puzzle Platform
+The next iteration of the Purkiáda web experience, continuing the puzzle-solving tradition with a fresh theme: "Virus". Built with improved mechanics and visuals, this version challenges players with virus-inspired logic puzzles and even trickier encryption techniques.
+
+> 🎯 Built for the 2023 school competition – Czech-only.
 
 ---
 
